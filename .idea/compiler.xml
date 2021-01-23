@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="infytel-cors-ui" />
+        <module name="wecare" />
+        <module name="infytel" />
+        <module name="infytel-2" />
+        <module name="test2" />
+        <module name="test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="infytel" target="1.8" />
+      <module name="infytel-2" target="1.8" />
+      <module name="infytel-cors-ui" target="1.7" />
+      <module name="infytel-rest-client" target="1.8" />
+      <module name="test" target="1.7" />
+      <module name="test2" target="1.8" />
+      <module name="untitled" target="1.5" />
+      <module name="wecare" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="infytel" options="-parameters" />
+      <module name="infytel-2" options="-parameters" />
+      <module name="infytel-rest-client" options="-parameters" />
+      <module name="test2" options="-parameters" />
+      <module name="wecare" options="-parameters" />
+    </option>
+  </component>
+</project>

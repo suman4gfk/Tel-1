@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="infytel-cors-ui:war">
+    <output-path>$PROJECT_DIR$/infytel-cors-ui/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>infytel-cors-ui</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="infytel-cors-ui.war">
+      <element id="artifact" artifact-name="infytel-cors-ui:war exploded" />
+    </root>
+  </artifact>
+</component>

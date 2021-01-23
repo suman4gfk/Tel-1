@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringRestTraining.iml" filepath="$PROJECT_DIR$/SpringRestTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infytel/infytel.iml" filepath="$PROJECT_DIR$/infytel/infytel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infytel-2/infytel-2.iml" filepath="$PROJECT_DIR$/infytel-2/infytel-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infytel-cors-ui/infytel-cors-ui.iml" filepath="$PROJECT_DIR$/infytel-cors-ui/infytel-cors-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test2/test2.iml" filepath="$PROJECT_DIR$/test2/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wecare/wecare.iml" filepath="$PROJECT_DIR$/wecare/wecare.iml" />
+    </modules>
+  </component>
+</project>
